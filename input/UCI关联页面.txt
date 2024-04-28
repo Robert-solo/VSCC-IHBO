@@ -1,0 +1,11 @@
+Hill-Valley    https://archive.ics.uci.edu/ml/datasets/Hill-Valley
+Ionosphere    https://archive.ics.uci.edu/ml/datasets/Ionosphere
+Sonar    https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29
+Libras    https://archive.ics.uci.edu/ml/datasets/Libras+Movement
+WDBC    https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+MUSK1    https://archive.ics.uci.edu/ml/datasets/Musk+(Version+1)
+Urban    https://archive.ics.uci.edu/ml/datasets/Urban+Land+Cover
+LSVT    https://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation
+
+SCADI    https://archive.ics.uci.edu/ml/datasets/SCADI
+mfeat-fou & mfeat-fac & mfeat-pix    https://archive.ics.uci.edu/ml/datasets/Multiple+Features
