@@ -5,6 +5,10 @@ Refference: Ye, Z., Luo, J., Zhou, W., Wang, M., & He, Q. (2023). An ensemble fr
 
 DOI: https://doi.org/10.1016/j.future.2023.09.035
 
+
+## Citation
+Use this bibtex to cite this repository:
+```
 @Article{ye2023ensemble,
 title={An ensemble framework with improved hybrid breeding optimization-based feature selection for intrusion detection},
 author={Ye, Zhiwei and Luo, Jun and Zhou, Wen and Wang, Mingwei and He, Qiyi},
@@ -12,3 +16,4 @@ journal={Future Generation Computer Systems},
 year={2023},
 publisher={Elsevier}
 }
+```
